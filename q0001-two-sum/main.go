@@ -1,5 +1,11 @@
 package main
 
+func main() {
+	twoSum([]int{2, 7, 11, 15}, 9)
+	twoSum([]int{2, 7, 11, 15}, 9)
+	twoSum([]int{2, 7, 11, 15}, 9)
+}
+
 func twoSum(nums []int, target int) []int {
 	var hashMap map[int]int = map[int]int{}
 	var left int

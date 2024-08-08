@@ -1,4 +1,4 @@
-module kvineet.in/leetcode/d273
+module kvineet.in/leetcode/q273
 
 go 1.22.5
 
